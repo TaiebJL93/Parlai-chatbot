@@ -89,7 +89,7 @@ python convert_fairseq_to_parlai.py \
 ```
 
 <h1>Chat with your chatbot</h1>
-**To chat with your Parlai model, you can run the following command on the terminal:**<br>
+To chat with your Parlai model, you can run the following command on the terminal:<br>
 
 ```shell
 parlai interactive --model-file "${PRETRAINED_MODEL_PATH}"
