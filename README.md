@@ -94,7 +94,7 @@ python convert_fairseq_to_parlai.py \
 ```shell
 parlai interactive --model-file "${PRETRAINED_MODEL_PATH}"
 ```
-<img src="chat_with_bot.png">
+<img src="chat_with_bot.PNG">
 
 
 
